@@ -15,10 +15,10 @@ const Header = () => {
                             <a class="nav-link active" aria-current="page" >صفحه نخست</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link">اعلام خرابی</a>
+                            <a class="nav-link">اعلام خسارت</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" >پیگیری گزارش</a>
+                            <a class="nav-link" >پیگیری خسارت</a>
                         </li>
                     </ul>
                 </div>

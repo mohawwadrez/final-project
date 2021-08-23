@@ -1,15 +1,12 @@
 import React from "react"
-import Header from "./component/Header"
-import Banner from "./component/Banner";
-import Overview  from "./component/Overview";
+import Router from "./router/Router"
+import Layout from "./component/Layout"
+import './app.css'
 const App = () => {
-
     return (
-        <>
-            <Header />
-            <Banner />
-            <Overview/>
-        </>
+        <Layout>
+            <Router />
+        </Layout>
     )
 }
 export default App;
