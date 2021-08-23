@@ -1,0 +1,8 @@
+.overview{
+  color: black;
+  text-align: center;
+}
+
+.icon :hover{
+  color: rgb(238, 0, 0);
+}
